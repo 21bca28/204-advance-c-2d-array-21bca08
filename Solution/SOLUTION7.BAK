@@ -25,7 +25,7 @@ void main()
       case 3:
 	     rev=reverse();
 	     printf ("Reverse number is %d", rev);
-      case 4:
+      //case 4:
 
       case 5:exit();
 	    break;
